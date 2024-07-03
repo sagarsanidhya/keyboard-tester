@@ -12,7 +12,7 @@ You can install the `keyboard` module using pip:
 
 ```bash
 pip install keyboard
-
+```
 
 ## Script Overview
 
@@ -42,7 +42,7 @@ Key Counts: {'a': 1, 'b': 2}
 Key Counts: {'a': 1, 'b': 2, 'c': 3}
 ...
 Final Key Counts: {'a': 1, 'b': 2, 'c': 3}
-
+```
 ## Notes
 
 - The script runs indefinitely until the `Esc` key is pressed.
